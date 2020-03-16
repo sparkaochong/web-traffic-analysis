@@ -7,17 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="tracker-logServer" />
-        <module name="backend" />
+        <module name="spark-preparse-etl" />
+        <module name="weblog-preparser" />
         <module name="frontend" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="backend" target="1.5" />
-      <module name="frontend" target="1.5" />
-      <module name="tracker-logServer" target="1.5" />
+      <module name="backend" target="8" />
+      <module name="frontend" target="8" />
+      <module name="spark-preparse-etl" target="8" />
+      <module name="tracker-logServer" target="8" />
+      <module name="weblog-preparser" target="8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>
