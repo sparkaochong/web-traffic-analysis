@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/spark-preparse-etl/spark-preparse-etl.iml" filepath="$PROJECT_DIR$/backend/spark-preparse-etl/spark-preparse-etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/tracker-logServer/tracker-logServer.iml" filepath="$PROJECT_DIR$/tracker-logServer/tracker-logServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-traffic-analysis.iml" filepath="$PROJECT_DIR$/.idea/web-traffic-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/weblog-preparser/weblog-preparser.iml" filepath="$PROJECT_DIR$/backend/weblog-preparser/weblog-preparser.iml" />
     </modules>
   </component>
 </project>
